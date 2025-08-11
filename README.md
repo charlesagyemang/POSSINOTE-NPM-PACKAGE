@@ -13,7 +13,7 @@ npm install possinote
 ### From Source
 
 ```bash
-git clone https://github.com/possitech/possinote-js.git
+git clone https://github.com/charlesagyemang/POSSINOTE-NPM-PACKAGE
 cd possinote-js
 npm install
 npm run build
